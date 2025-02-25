@@ -19,9 +19,7 @@ You can privately report a vulnerability [here](https://github.com/InterstellarN
 Alternatively, you can join our [Discord server](https://discord.gg/), and open a ticket and let us know what the vulnerability is.
 
 ### Upgrading to the Latest Version
-
-If you are using an older version of the site, we strongly recommend upgrading to the latest version to ensure that you benefit from the latest security updates and enhancements. Only the current versions of the site receive regular updates and support.
-
+upgrade it to the lastest version, so the poxy work smoother, and faster with no problemms
 ### How to Update
 
 If you have a fork of the repository:
