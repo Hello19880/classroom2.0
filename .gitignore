@@ -1,0 +1,19 @@
+# Ignore Docker-related files
+*.log
+*.pid
+*.sock
+Dockerfile
+docker-compose.yml
+
+# Ignore Nginx logs
+nginx/logs/
+
+# Ignore node_modules if using Node.js
+node_modules/
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+
+# Ignore SSL certificates
+/ssl/
